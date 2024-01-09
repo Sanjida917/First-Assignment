@@ -1,0 +1,533 @@
+.banner {
+
+    font-family: 'Merriweather', serif;
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../image/banner.png');
+    margin: 0 auto;
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    background-size: cover;
+
+}
+
+.banner-title {
+
+    color: #FFF;
+    padding: 200px 100px 0px 100px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;
+
+}
+
+.banner-topic {
+
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+}
+
+.poster {
+    font-family: 'Inter', sans-serif;
+    align-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.discount {
+
+    margin-top: 120px;
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+
+}
+
+.discount-title {
+
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.discount-type {
+
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+
+
+}
+
+.new-year-photo {
+
+    background-image: url(../image/newyear.png);
+    margin: 50px auto;
+    width: 802px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+.welcome-page {
+
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../image/vectorrr.png');
+    display: flex;
+    margin: 150px auto;
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    background-size: cover;
+}
+
+.welcome {
+    margin: 125px 95px 10px 125px;
+}
+
+.welcome-greeting {
+    color: #FFF;
+    font-family: 'Merriweather', serif;
+    letter-spacing: 7.04px;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+
+}
+
+.welcome-description {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.join-button {
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: transparent;
+    border: #070211;
+}
+
+.welcoming-picture {
+    margin: 67px 108px 67px 0px;
+}
+
+.foot {
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin: 0px auto;
+    border-radius: 10px;
+    width: 1320px;
+    height: 482px;
+}
+
+.foot-details {
+
+    margin-top: 150px;
+    ;
+    color: #070211;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    padding-top: 100px;
+    text-align: center;
+    justify-content: center;
+
+
+}
+
+.details {
+    color: #F00;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.foot-join-btn {
+
+    margin-top: 50px;
+    color: #FFF;
+    background-color: #F00;
+    gap: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 16px 32px;
+    border: none;
+    border-radius: 10px;
+
+
+}
+
+.first-challenge {
+
+    margin: 0 auto;
+    margin-top: 200px;
+    display: flex;
+    width: 1320px;
+    height: 100%;
+    gap: 50px;
+    justify-content: space-around;
+
+}
+
+.new-year-offer {
+    margin-top: 50px;
+    text-align: left;
+}
+
+.offer {
+
+    font-family: 'Inter', sans-serif;
+    color: #F00;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+.offer-coming {
+
+    font-family: 'Merriweather', serif;
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+
+
+}
+
+.offer-description {
+
+    font-family: 'Inter', sans-serif;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    max-width: 390px;
+    max-height: 130px;
+    text-align: justify;
+
+}
+
+.new-year-celebration {
+
+    margin: 0 auto;
+    width: 364.844px;
+    height: 364.844px;
+    padding: 49.08px;
+    border-radius: 364.844px;
+    border: 15px solid #F00;
+}
+
+.happy-new-year {
+    padding-top: 50px;
+    margin: 0 auto;
+    text-align: left;
+    font-family: 'Inter', sans-serif;
+}
+
+.new-year {
+    padding-bottom: 10px;
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.expression {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 276px;
+    height: 96px;
+    padding-bottom: 30px;
+    text-align: justify;
+
+}
+
+.year-greeting {
+    padding-top: 18px;
+}
+
+
+.second-challenge {
+
+    margin: 0 auto;
+    margin-top: 200px;
+    width: 1320px;
+    height: fit-content;
+    justify-content: space-around;
+
+}
+
+
+
+.advertisement {
+
+    margin: 1px;
+    padding: 1px;
+    text-align: center;
+
+
+}
+
+.what-a-functional {
+
+    margin: 50px;
+    margin-bottom: 0px;
+    color: #070211;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.holidays-sell {
+
+
+    margin: 30px;
+    margin-bottom: 30px;
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.holidays {
+
+    color: #F00;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.function-description {
+
+
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    max-width: 1000px;
+    max-height: 95px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    margin: 0 auto;
+    margin-bottom: 0;
+
+}
+
+.discount-giftbox {
+    position: absolute;
+
+}
+
+.discount-parcent {
+
+    width: 206.841px;
+    height: 206.841px;
+    position: absolute;
+    left: 790px;
+    top: 420px;
+
+    margin-top: 00px;
+}
+
+.backgroundone {
+
+    background-image: url('../image/shopping.png');
+    width: 429px;
+    height: 433px;
+    border-radius: 16px 16px 0px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    left: 891px;
+    top: 268px;
+    z-index: -1;
+
+}
+
+.box {
+
+    position: absolute;
+    top: 280px;
+    left: 20px;
+
+}
+
+
+.backgroundtwo {
+    background-image: url('../image/redborder.png');
+    width: 1320px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 700px;
+    z-index: -1;
+
+
+}
+
+.image-decoration {
+
+
+    margin: 0 auto;
+    width: 1320px;
+    height: fit-content;
+    margin-top: 1200px;
+    margin-bottom: 200px;
+}
+
+.section-image-description {
+
+    text-align: left;
+    width: 895px;
+    height: 65px;
+    text-align: justify;
+    
+}
+
+
+.best-gift {
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.awesome-portfolio {
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-size: 48px;
+    font-weight: 900;
+    
+}
+
+.portfolio-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 30px 100px;
+    
+}
+
+.add-images :hover {
+    gap: 10px;
+    display: flex;
+    width: 424px;
+    height: 450px;
+    border-radius: 16px;
+}
+
+
+.subscription {
+
+    width: 1320px;
+    height: 616px;
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 160x;
+    margin-top: 200px;
+    margin: 0 auto;
+    width: 1320px;
+    height: 100%;
+    border: 2px solid red;
+
+}
+
+.email-image {
+    padding-top: 50px;
+
+    margin-top: 20px;
+    margin: 0 auto;
+    width: 150px;
+    height: 150px;
+
+}
+
+.subscription-title {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+
+}
+
+.subscription-detais {
+
+    color: rgba(7, 2, 17, 0.60);
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.subscription-button {
+
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 648px;
+    /* max-height: 72px; */
+    /* border-radius: 50px; */
+    /* background: #FFF; */
+    justify-content: space-between;
+    /* margin: 20px 336px 80px; */
+    margin-bottom: 50px;
+}
+
+.email-address {
+
+    margin-top: 5px;
+    color: rgba(7, 2, 17, 0.30);
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    /* height: 72px; */
+    padding: 20px 300px 10px 30px;
+    border-radius: 50px 0px 0px 50px;
+
+}
+
+.red-sub-btn {
+
+    margin-top: 5px;
+    color: #FFF;
+    background: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    width: 210px;
+    height:30px;
+    padding: 20px 60px 20px 60px;
+    border-radius: 0px 50px 50px 0px;
+
+}
