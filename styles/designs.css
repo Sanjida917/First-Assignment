@@ -127,7 +127,7 @@
     margin: 67px 108px 67px 0px;
 }
 
-.foot-panda{
+.foot-panda {
     font-family: 'Inter', sans-serif;
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     margin: 0px auto;
@@ -192,9 +192,7 @@
     font-family: 'Inter', sans-serif;
     color: #F00;
     font-size: 24px;
-    font-style: normal;
     font-weight: 500;
-    line-height: normal;
 
 }
 
@@ -342,12 +340,10 @@
     position: absolute;
     left: 790px;
     top: 420px;
-
-    margin-top: 00px;
+    margin-top: 0px;
 }
 
 .backgroundone {
-
     background-image: url('../image/shopping.png');
     width: 429px;
     height: 433px;
@@ -401,7 +397,6 @@
 
 
 }
-
 
 .best-gift {
     color: #F00;
@@ -474,10 +469,8 @@
     text-align: center;
     font-family: 'Merriweather', serif;
     font-size: 48px;
-    font-style: normal;
     font-weight: 900;
-    line-height: normal;
-    text-transform: capitalize;
+
 
 }
 
@@ -537,12 +530,12 @@
 
 #footer-footer {
 
-    padding: 100px 200px  0 200px;
+    padding: 100px 200px 0 200px;
     margin: 0 auto;
     width: 1600px;
     height: 609px;
     background-color: #070211;
-   
+
 }
 
 
@@ -571,14 +564,12 @@
     color: #FFF;
     font-family: 'Inter', sans-serif;
     font-size: 24px;
-    font-style: normal;
     font-weight: 500;
     line-height: 40px;
 }
 
 .adddress-icon {
     display: inline-flex;
-
 
 }
 
@@ -617,12 +608,10 @@
 
 .block {
     display: block;
-    padding-bottom: 0;
-    gap : 0px;
 }
 
 
-.social-link{
+.social-link {
 
     padding-left: 600px;
     display: flex;
@@ -634,31 +623,20 @@
     border-bottom: 1px solid rgba(255, 255, 255, 0.15);
 }
 
-.insta{
-
+.insta {
     padding-left: 10px;
 }
 
-.foot-last{
+.foot-last {
     display: flex;
     justify-content: space-between;
     margin-top: 100px;
-    
 
-    
 }
 
-.address-call{
+.address-call {
 
     display: flex;
     margin-top: 20px;
-
-} 
-
-.hr-line{
-
-
-height: 1px;
-color: rgba(255, 255, 255, 0.15);
 
 }
